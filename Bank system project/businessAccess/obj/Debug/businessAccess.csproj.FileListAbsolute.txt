@@ -1,0 +1,11 @@
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\bin\Debug\businessAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\bin\Debug\businessAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\bin\Debug\DataAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\bin\Debug\EventViewr.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\bin\Debug\DataAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\bin\Debug\EventViewr.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\obj\Debug\businessAccess.csproj.AssemblyReference.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\obj\Debug\businessAccess.csproj.CoreCompileInputs.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\obj\Debug\business.87441387.Up2Date
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\obj\Debug\businessAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\businessAccess\obj\Debug\businessAccess.pdb

@@ -1,0 +1,18 @@
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\bin\Release\DataAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\bin\Release\DataAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\bin\Release\EventViewr.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\bin\Release\EventViewr.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\obj\Release\DataAccess.csproj.AssemblyReference.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\obj\Release\DataAccess.csproj.Up2Date
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\obj\Release\DataAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\DataAccess\obj\Release\DataAccess.pdb
+F:\Projects\Bank System\Copy20\DataAccess\bin\Release\DataAccess.dll
+F:\Projects\Bank System\Copy20\DataAccess\bin\Release\DataAccess.pdb
+F:\Projects\Bank System\Copy20\DataAccess\bin\Release\EventViewr.dll
+F:\Projects\Bank System\Copy20\DataAccess\bin\Release\EventViewr.pdb
+F:\Projects\Bank System\Copy20\DataAccess\obj\Release\DataAccess.csproj.AssemblyReference.cache
+F:\Projects\Bank System\Copy20\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+F:\Projects\Bank System\Copy20\DataAccess\obj\Release\DataAccess.csproj.Up2Date
+F:\Projects\Bank System\Copy20\DataAccess\obj\Release\DataAccess.dll
+F:\Projects\Bank System\Copy20\DataAccess\obj\Release\DataAccess.pdb

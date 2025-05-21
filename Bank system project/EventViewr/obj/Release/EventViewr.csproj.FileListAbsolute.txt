@@ -1,0 +1,12 @@
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\bin\Release\EventViewr.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\bin\Release\EventViewr.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Release\EventViewr.csproj.AssemblyReference.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Release\EventViewr.csproj.CoreCompileInputs.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Release\EventViewr.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Release\EventViewr.pdb
+F:\Projects\Bank System\Copy20\EventViewr\bin\Release\EventViewr.dll
+F:\Projects\Bank System\Copy20\EventViewr\bin\Release\EventViewr.pdb
+F:\Projects\Bank System\Copy20\EventViewr\obj\Release\EventViewr.csproj.AssemblyReference.cache
+F:\Projects\Bank System\Copy20\EventViewr\obj\Release\EventViewr.csproj.CoreCompileInputs.cache
+F:\Projects\Bank System\Copy20\EventViewr\obj\Release\EventViewr.dll
+F:\Projects\Bank System\Copy20\EventViewr\obj\Release\EventViewr.pdb

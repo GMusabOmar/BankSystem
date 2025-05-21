@@ -1,0 +1,104 @@
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\BankSystem.exe.config
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\BankSystem.exe
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\BankSystem.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\businessAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\EventViewr.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\DataAccess.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\businessAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\EventViewr.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\bin\Release\DataAccess.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.csproj.AssemblyReference.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.ATM.frmAddNewATM.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.ATM.frmDepostWithDraw.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.ATM.frmListATM.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.ATM.frmListWithDrawDeposit.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Bank.Branch.frmAddUpdateBranch.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Bank.Branch.frmListBranch.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Bank.frmAddNewBank.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Bank.frmListBanker.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.CreditCard.frmAddNewCC.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.CreditCard.frmListCreditCard.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.frmMain.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Loan.frmAddUpdateLoan.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Loan.frmListLoan.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Loan.PaymentLoan.frmAddUpdatePaymentLoan.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Loan.PaymentLoan.frmListPaymentLoan.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Control.ctrlPersonInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Control.ctrlPersonInfoWithFilter.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Customers.Accounts.frmAddUpdateAccount.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Customers.Accounts.frmListAccount.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Customers.Controls.ctrlCustomersInfoWithFilter.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Customers.frmFindPersonToAddCustomer.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Customers.frmListCustomers.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.frmAddUpdatePerson.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.frmFindPerson.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.frmListPerson.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.frmShowPersonInfo.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Users.frmAddUpdateUser.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Persons.Users.frmListUser.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Properties.Resources.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Transactions.frmAddNewTransaction.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.Transactions.frmListTransaction.resources
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.csproj.GenerateResource.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.csproj.Up2Date
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.exe
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\BankSystem\obj\Release\BankSystem.pdb
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\BankSystem.exe.config
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\BankSystem.exe.manifest
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\BankSystem.application
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\BankSystem.exe
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\BankSystem.pdb
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\businessAccess.dll
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\EventViewr.dll
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\DataAccess.dll
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\businessAccess.pdb
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\EventViewr.pdb
+F:\Projects\Bank System\Copy20\BankSystem\bin\Release\DataAccess.pdb
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.csproj.AssemblyReference.cache
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.exe.config
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.ATM.frmAddNewATM.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.ATM.frmDepostWithDraw.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.ATM.frmListATM.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.ATM.frmListWithDrawDeposit.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Bank.Branch.frmAddUpdateBranch.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Bank.Branch.frmListBranch.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Bank.frmAddNewBank.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Bank.frmListBanker.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.CreditCard.frmAddNewCC.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.CreditCard.frmListCreditCard.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.frmMain.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Loan.frmAddUpdateLoan.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Loan.frmListLoan.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Loan.PaymentLoan.frmAddUpdatePaymentLoan.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Loan.PaymentLoan.frmListHistoryPaymentLoan.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Loan.PaymentLoan.frmListPaymentLoan.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Login.frmLogin.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Control.ctrlPersonInfo.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Control.ctrlPersonInfoWithFilter.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Customers.Accounts.frmAddUpdateAccount.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Customers.Accounts.frmListAccount.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Customers.Controls.ctrlCustomersInfoWithFilter.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Customers.frmFindPersonToAddCustomer.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Customers.frmListCustomers.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.frmAddUpdatePerson.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.frmFindPerson.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.frmListPerson.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.frmShowPersonInfo.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Users.ctrlUserInfo.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Users.frmAddUpdateUser.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Users.frmChangePassword.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Users.frmListUser.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Persons.Users.frmShowUserInfo.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Properties.Resources.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.SendMoneies.frmAddNewSendMoney.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.SendMoneies.frmListSendMoneies.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Transactions.frmAddNewTransaction.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.Transactions.frmListTransaction.resources
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.csproj.GenerateResource.cache
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.csproj.CoreCompileInputs.cache
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.exe.manifest
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.application
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.csproj.Up2Date
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.exe
+F:\Projects\Bank System\Copy20\BankSystem\obj\Release\BankSystem.pdb

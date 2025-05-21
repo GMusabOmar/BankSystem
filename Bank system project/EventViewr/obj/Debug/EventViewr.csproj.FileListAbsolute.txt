@@ -1,0 +1,6 @@
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\bin\Debug\EventViewr.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\bin\Debug\EventViewr.pdb
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Debug\EventViewr.csproj.AssemblyReference.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Debug\EventViewr.csproj.CoreCompileInputs.cache
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Debug\EventViewr.dll
+C:\Users\K.P._M\Visual Studio\Windows Form\BankSystem\EventViewr\obj\Debug\EventViewr.pdb
